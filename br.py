@@ -3,7 +3,7 @@ import json
 import time
 
 # 私钥
-private_key = 'f6ec044f83ebb0e5a2ed0168930ddcde'
+private_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # 打开要分组读取的文件
 with open('domains.txt') as f:
