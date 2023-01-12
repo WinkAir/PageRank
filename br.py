@@ -2,8 +2,8 @@ import requests
 import json
 import time
 
-# 私钥
-private_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+# 私钥,替换为你申领的api
+private_key = 'xxxxxxxxxxxxxxxxxxx'
 
 # 打开要分组读取的文件
 with open('domains.txt') as f:
